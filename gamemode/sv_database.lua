@@ -196,7 +196,7 @@ if ( !timer.Exists("loadloaderboardplayers") ) then
 	end)
 end
 
-require("tmysql4")
+require("mysqloo")
 
 DB = {}
 DB.MySql = {}
