@@ -175,35 +175,33 @@ function PANEL:Init()
         draw.DrawText([[
         
         • Do not spam props to intentionally use up all of your team's props, especially if someone is trying to build a base. 
-        (This is mostly directed at people who know how to play the game but are trolling. If a new person is doing this, just let them know
+        (This is mostly directed at people who know how to play the game but are trolling. If a new person is doing this, kindly just let them know
         that they are wasting all the props.)
 
-        • Don't grief/minge. This includes fucking with someone's base, and setting your spawn in unfavorable places (particularly in someone 
-        elses base when they don't want you to). Just use common sense and don't be a dick. Again, new people may not know that they are doing 
-        something wrong, so let them know if they are.
+        • Don't grief. This includes messing with someone's base, and setting your spawn in unfavorable places (particularly in someone 
+        elses base when they don't want you to). Just use common sense. Again, new people may not know that they are doing 
+        something wrong, so kindly let them know if they are.
 
-        • Don't push props through the build walls.
+        • Do not push props through the build walls.
 
-        • Don't push yourself through the build walls (We will sometimes allow this in good spirits, it's not really a big deal if you aren't 
-        fucking with other people, and rather just having fun).
+        • Do not push yourself or other players through the build walls.
 
-        • Don't prop push people (Again, we will sometimes allow this if it's just in good spirits or if it's just a friend, not really a big deal).
+        • Do not prop push people without consent.
 
         • Certain exploits are allowed to an extent. For example, using parts of the map to make an overpowered base is allowed, closed bases 
         are allowed.
 
-        • Do not impersonate staff, other users, or bots.
+        • Do not impersonate staff, other players, or bots.
 
         • Do not spam chat/voice.
 
-        • No children talking on the mic, use the chat instead please.
+        • Do not be toxic or harass other players or staff.
 
-        • Don't be toxic or harass other users.
+        • Racism, sexism, transphobia, ableism, and otherwise discriminatory behavior will not be tolerated, especially when directed at other players or staff.
 
-        • Freedom of speech applies here. Swearing/racism is allowed, just don't be too excessive. Again, don't be targeting/harassing other 
-        people though.
+        • Do not dox players or staff. I.e. Do not post personal information such as phone numbers, addresses, real names, etc.
 
-        • Do not post personal information such as phone numbers.
+        • Please keep language and sprays SFW (Safe For Work).
         
         
         ]], "Default", 10, 320, Color(255, 255, 255, 255), 0)	
